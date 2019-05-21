@@ -24,6 +24,7 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 * Enpies
 * Emlakjet
 * Epigra
+* Nuevo Softwarehouse
 * Otel.com
 * Put.io
 * Scotty
