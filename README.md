@@ -13,3 +13,4 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 * Plentific (Remote)
 * Iyzico (Istanbul)
 * Cisco Systems (San Jose)
+* Mobiroller (Antalya)
