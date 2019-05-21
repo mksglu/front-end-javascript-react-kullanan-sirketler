@@ -4,16 +4,46 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 
 ## Şirketler:
 
-* JotForm (Ankara, Izmir)
-* TDSmaker (Remote)
-* AgFlow (Remote)
-* Socio (Remote)
-* Saypr (Remote)
-* Fabrika Medya (Ankara)
-* Plentific (Remote)
-* Iyzico (Istanbul)
-* Argemera (Izmir)
-* Ziraat Teknoloji (istanbul)
-* HepsiBurada (istanbul)
+### Ankara
+
+* JotForm
+* Fabrika Medya
+
+### Antalya
+
+* Mobiroller
+
+### Istanbul
+
+* Iyzico
+* Ziraat Teknoloji
+* HepsiBurada
+* Brickly
+* Adphorus
+* EFT Software
+* Enpies
+* Emlakjet
+* Epigra
+* Otel.com
+* Put.io
+* Scotty
+* Segmentify
+* Twentify
+* Vispera
+
+### Izmir
+
+* Argemera
+* Atölye15
+
+### Remote Sirketler
+
+* TDSmaker
+* AgFlow
+* Socio
+* Saypr
+* Plentific
+
+### Yurtdisi Sirketler
+
 * Cisco Systems (San Jose)
-* Mobiroller (Antalya)
