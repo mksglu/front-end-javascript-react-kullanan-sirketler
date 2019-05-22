@@ -15,6 +15,7 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 
 ### Istanbul
 
+* Smartface
 * Iyzico
 * Ziraat Teknoloji
 * HepsiBurada
