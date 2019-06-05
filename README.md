@@ -15,6 +15,8 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 
 ### Istanbul
 
+* Trendyol
+* VNGRS
 * HiveCDN
 * Smartface
 * Iyzico
