@@ -44,7 +44,6 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 
 ### Remote Sirketler
 
-* TDSmaker
 * AgFlow
 * Socio
 * Saypr
@@ -54,3 +53,5 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 
 * Cisco Systems (San Jose)
 * FindHotel (Amsterdam)
+* GetStream (Amsterdam)
+* Fortanix (Amsterdam)
