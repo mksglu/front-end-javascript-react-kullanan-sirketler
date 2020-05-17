@@ -9,6 +9,7 @@ Bu konu hakkında kısa bir girizgah yapmak isterim. Front-end ekosistemi gün g
 * JotForm
 * Fabrika Medya
 * OPLOG Operational Logistics
+* Uzman Posta
 
 ### Antalya
 
